@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://gauravv_shukla:617TjO4FMXo7uR0K@cluster0.lkj1fht.mongodb.net/TinyUrl",
+  "baseUrl": "http://localhost:5000"
+}
